@@ -1,4 +1,4 @@
 # ML-Algo
 their is one main file python code
 model evaluation resuls
-and pictures 
+and pictures of confusion matrics
