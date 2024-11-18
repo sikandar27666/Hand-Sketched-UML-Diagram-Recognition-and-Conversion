@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.1" xmlns:uml="http://schema.omg.org/spec/UML/2.0" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1">
+	<packagedElement xmi:id="d4a5838a108e484196d89936dc118865" xmi:type="uml:Model">
+		<name>ClassDiagram1</name>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="305ddb360d884756a91bf469eabcbbe7" xmi:type="uml:Class">
+			<name>Name</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="b10aea003e124c78967c5671e19af2c8" name="Shil Orde (" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="f78edd3738e543f2a0d01802ecc72d2d" name="Operations" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="6f46736d40b340949bc528c97003599d" xmi:type="uml:Class">
+			<name>Name</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="dc865f4e982f4b6bb4d6adb85aa2ee27" name="Receive ordcv" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="1ff37822ab174aa8956b34d113281de0" name="Operations" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="3151cc8bd9d34f6c93fe16aed94ef543" xmi:type="uml:Class">
+			<name>Name</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="cf362145ca8f47be8b2e344542b02f5b" name="Accep t D 41e N" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="15e4e027b95f479db452680d73a3ab86" name="Operations" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="97ef97ce0e074599ba4a6705ffa04a36" xmi:type="uml:Class">
+			<name>Name</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="2fff64b0b33d41dfac700a2af7a23e32" name="Fill Ovder" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="d07e78281759462db9b867876a950610" name="Operations" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="8faf25a2485548fc923616ee1cfce865" xmi:type="uml:Class">
+			<name>Name</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="e9d2795058734bc0b5802d3a6676c2d5" name="Clese Ordi" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="9f8885d5c26d47f1887df8f80261d5ea" name="Operations" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="b1de4c948d6543e8900d267fa45cec4e" xmi:type="uml:Class">
+			<name>Name</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="340d3d1804c6468481ac36aa939cf7f3" name="MekE Paymem" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="f46a7daa957e4ec3a7f0331a726c9a52" name="Operations" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="810132f27639444aa55fe25d4b8cfe8a" xmi:type="uml:Class">
+			<name>Name</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="0dcf7cd3dec74b53b86b39cfb064e621" name="Invice" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="378f29d133104feeab4cb8df7751d1ab" name="Operations" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="87e7a6bf6ac74663a1ef58864a29bd30" xmi:type="uml:Class">
+			<name>Name</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="0d6452185efb40e9b3efeaadd5be8471" name="Send invoite" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="80082878f15c45a09737e7da2a8b2c72" name="Operations" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+	</packagedElement>
+</xmi:XMI>

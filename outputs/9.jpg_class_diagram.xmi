@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.1" xmlns:uml="http://schema.omg.org/spec/UML/2.0" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1">
+	<packagedElement xmi:id="6b47db99806844349ba59225566d5bb1" xmi:type="uml:Model">
+		<name>ClassDiagram1</name>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="3df4d26260384177bf47f1e0989c52fa" xmi:type="uml:Class">
+			<name>Nox mol Oxdler</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="8fe5b1382ce44aeeb31f1971f4f714d6" name="dote 9 Ocle humbex Stinq" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="37567cc0be3d493e9c3af255518a2984" name="Centim Uose_ @)" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="237ccede4c384709ae4179e1bedbf631" xmi:type="uml:Class">
+			<name>Customex</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="eb53fef6725143508faa5520b9298cd4" name="name Stinq location : Stying" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="887b359a9bac47c68a226fd5908827d3" name="Sendorder C) xeceiv order ()" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="dd945fe519d144109e6a0a1083cc9d3f" xmi:type="uml:Class">
+			<name>Sperial OYder</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="1bb60d8a2e8f41e1b49f8e1795c4a4b3" name="date Date numbex Stving" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="0ae567bacc884ee49c37df075d48d4b4" name="Cnfivm C Ubse_0" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="c5a4bb73ce494bd6b303344044911ba4" xmi:type="uml:Class">
+			<name>Oxder</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="d8eadf650aad4d6e9f0181e3a3c481f6" name="&amp;ate : pnte number 9 Stviq" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="194fecd09030498c9421af936af1925b" name="(onfiym C) Close_ C)" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement xmi:id="d415d61c475a4265ad5c1f8faaddc628" visibility="public" xmi:type="uml:Association">
+			<memberEnd xmi:idref="237ccede4c384709ae4179e1bedbf631" xmi:type="uml:Property"/>
+			<memberEnd xmi:idref="dd945fe519d144109e6a0a1083cc9d3f" xmi:type="uml:Property"/>
+		</packagedElement>
+		<packagedElement xmi:id="c66e4455be094ee0be2081e7692bc695" visibility="public" xmi:type="uml:Association">
+			<memberEnd xmi:idref="c5a4bb73ce494bd6b303344044911ba4" xmi:type="uml:Property"/>
+			<memberEnd xmi:idref="237ccede4c384709ae4179e1bedbf631" xmi:type="uml:Property"/>
+		</packagedElement>
+	</packagedElement>
+</xmi:XMI>

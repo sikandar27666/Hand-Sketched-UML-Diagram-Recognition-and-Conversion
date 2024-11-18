@@ -1,0 +1,92 @@
+{
+    "classes": {
+        "521a9abf-bf3b-4811-8649-b7ff967db1ff": {
+            "bbox": {
+                "x1": 1989,
+                "y1": 1496,
+                "x2": 2873,
+                "y2": 2374,
+                "confidence": 0.9441421627998352,
+                "detection_id": "521a9abf-bf3b-4811-8649-b7ff967db1ff"
+            },
+            "name": "Nox mol Oxdler",
+            "attributes": "dote 9 Ocle humbex Stinq",
+            "operations": "Centim Uose_ @)"
+        },
+        "2f52bf93-04be-41ee-94fc-af40bc94c6df": {
+            "bbox": {
+                "x1": 414,
+                "y1": 72,
+                "x2": 1437,
+                "y2": 903,
+                "confidence": 0.9360285997390747,
+                "detection_id": "2f52bf93-04be-41ee-94fc-af40bc94c6df"
+            },
+            "name": "Customex",
+            "attributes": "name Stinq location : Stying",
+            "operations": "Sendorder C) xeceiv order ()"
+        },
+        "9fd2db07-af45-4232-8fdc-d080ab28747d": {
+            "bbox": {
+                "x1": 324,
+                "y1": 1330,
+                "x2": 1293,
+                "y2": 2384,
+                "confidence": 0.9328874349594116,
+                "detection_id": "9fd2db07-af45-4232-8fdc-d080ab28747d"
+            },
+            "name": "Sperial OYder",
+            "attributes": "date Date numbex Stving",
+            "operations": "Cnfivm C Ubse_0"
+        },
+        "bec7ef68-8935-4517-a3ee-2e3d16ce6409": {
+            "bbox": {
+                "x1": 2048,
+                "y1": 140,
+                "x2": 2810,
+                "y2": 1033,
+                "confidence": 0.9309368133544922,
+                "detection_id": "bec7ef68-8935-4517-a3ee-2e3d16ce6409"
+            },
+            "name": "Oxder",
+            "attributes": "&ate : pnte number 9 Stviq",
+            "operations": "(onfiym C) Close_ C)"
+        }
+    },
+    "relationships": [
+        {
+            "type": "one-way-association",
+            "bbox": {
+                "x1": 839,
+                "y1": 899,
+                "x2": 2029,
+                "y2": 1371,
+                "confidence": 0.9169868230819702,
+                "detection_id": "eb09eb08-b1cb-4d9a-a30b-c33fd05dd1df"
+            }
+        },
+        {
+            "type": "one-way-association",
+            "bbox": {
+                "x1": 1398,
+                "y1": 343,
+                "x2": 2047,
+                "y2": 769,
+                "confidence": 0.7077487707138062,
+                "detection_id": "fa434294-1411-4cd1-b5a2-e8fe9dfc4f4c"
+            }
+        }
+    ],
+    "connections": [
+        {
+            "type": "one-way-association",
+            "from": "2f52bf93-04be-41ee-94fc-af40bc94c6df",
+            "to": "9fd2db07-af45-4232-8fdc-d080ab28747d"
+        },
+        {
+            "type": "one-way-association",
+            "from": "bec7ef68-8935-4517-a3ee-2e3d16ce6409",
+            "to": "2f52bf93-04be-41ee-94fc-af40bc94c6df"
+        }
+    ]
+}

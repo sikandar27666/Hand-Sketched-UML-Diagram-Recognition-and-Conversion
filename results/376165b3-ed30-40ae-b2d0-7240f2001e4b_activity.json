@@ -1,0 +1,539 @@
+{
+    "predictions": [
+        {
+            "class": "action",
+            "confidence": 0.9496038556098938,
+            "detection_id": "6b99a8f4-5136-47ca-ae80-d4d871bbf282",
+            "bbox": {
+                "x1": 2373.0,
+                "y1": 1686.0,
+                "x2": 2855.0,
+                "y2": 1934.0
+            },
+            "name": "o"
+        },
+        {
+            "class": "decision",
+            "confidence": 0.9416675567626953,
+            "detection_id": "bc51dfc9-20fe-47ae-838e-31b4dba8530f",
+            "bbox": {
+                "x1": 1479.5,
+                "y1": 1594.0,
+                "x2": 1720.5,
+                "y2": 1940.0
+            },
+            "name": ""
+        },
+        {
+            "class": "action",
+            "confidence": 0.9411987066268921,
+            "detection_id": "3d2514ab-c915-43bf-8bfa-bc7493aa066e",
+            "bbox": {
+                "x1": 1380.0,
+                "y1": 2546.5,
+                "x2": 2154.0,
+                "y2": 2765.5
+            },
+            "name": "Slow DowN"
+        },
+        {
+            "class": "decision",
+            "confidence": 0.9408405423164368,
+            "detection_id": "7afd2908-21fd-4836-a273-04f1961ce5ab",
+            "bbox": {
+                "x1": 1602.5,
+                "y1": 3066.0,
+                "x2": 1825.5,
+                "y2": 3418.0
+            },
+            "name": ""
+        },
+        {
+            "class": "final",
+            "confidence": 0.9348911643028259,
+            "detection_id": "6a5940d6-4cde-4fd0-af3e-e270f717de65",
+            "bbox": {
+                "x1": 2350.0,
+                "y1": 3135.5,
+                "x2": 2568.0,
+                "y2": 3400.5
+            },
+            "name": ""
+        },
+        {
+            "class": "decision",
+            "confidence": 0.9327397346496582,
+            "detection_id": "71dbad97-e143-4917-ab26-a5b82607ca3a",
+            "bbox": {
+                "x1": 551.5,
+                "y1": 1512.5,
+                "x2": 828.5,
+                "y2": 1893.5
+            },
+            "name": ""
+        },
+        {
+            "class": "action",
+            "confidence": 0.9201914668083191,
+            "detection_id": "9a8d9940-a977-4728-94d7-2a30fb8f5208",
+            "bbox": {
+                "x1": 300.5,
+                "y1": 826.0,
+                "x2": 1447.5,
+                "y2": 1166.0
+            },
+            "name": "it"
+        },
+        {
+            "class": "start",
+            "confidence": 0.9169160723686218,
+            "detection_id": "42628172-cf9b-4eec-949d-1e771b892f8b",
+            "bbox": {
+                "x1": 729.0,
+                "y1": 184.5,
+                "x2": 915.0,
+                "y2": 397.5
+            },
+            "name": ""
+        },
+        {
+            "class": "action",
+            "confidence": 0.8815057277679443,
+            "detection_id": "2f79e113-d712-4aff-8e71-94dae222ca5f",
+            "bbox": {
+                "x1": 36.0,
+                "y1": 2737.0,
+                "x2": 1242.0,
+                "y2": 3129.0
+            },
+            "name": "stop"
+        },
+        {
+            "class": "control flow",
+            "confidence": 0.8758695721626282,
+            "detection_id": "1e7e70d4-21cb-42be-a99d-21fd1f86ce47",
+            "bbox": {
+                "x1": 742.0,
+                "y1": 387.0,
+                "x2": 860.0,
+                "y2": 733.0
+            },
+            "name": ""
+        },
+        {
+            "class": "inward",
+            "confidence": 0.8552942276000977,
+            "detection_id": "4830dadb-6cd9-4ee6-85ef-3c49d8e56a4e",
+            "bbox": {
+                "x1": 2208.5,
+                "y1": 3169.5,
+                "x2": 2321.5,
+                "y2": 3348.5
+            },
+            "name": ""
+        },
+        {
+            "class": "control flow",
+            "confidence": 0.8409196138381958,
+            "detection_id": "3e6335cb-a3ae-46af-ae6b-cfafd1610a33",
+            "bbox": {
+                "x1": 1712.0,
+                "y1": 2766.0,
+                "x2": 1812.0,
+                "y2": 3020.0
+            },
+            "name": ""
+        },
+        {
+            "class": "control flow",
+            "confidence": 0.8382183313369751,
+            "detection_id": "92649816-85de-4bac-9077-738d53b603c3",
+            "bbox": {
+                "x1": 710.0,
+                "y1": 1178.0,
+                "x2": 828.0,
+                "y2": 1524.0
+            },
+            "name": ""
+        },
+        {
+            "class": "control flow",
+            "confidence": 0.8337693810462952,
+            "detection_id": "b179b070-9dee-434c-8b99-c76e0fedd714",
+            "bbox": {
+                "x1": 546.0,
+                "y1": 1870.5,
+                "x2": 732.0,
+                "y2": 2545.5
+            },
+            "name": ""
+        },
+        {
+            "class": "control flow",
+            "confidence": 0.8244292140007019,
+            "detection_id": "3bca750f-d078-47f2-9379-564fd4266012",
+            "bbox": {
+                "x1": 824.0,
+                "y1": 1646.0,
+                "x2": 1416.0,
+                "y2": 1790.0
+            },
+            "name": ""
+        },
+        {
+            "class": "control flow",
+            "confidence": 0.8163691759109497,
+            "detection_id": "70da1877-7208-472a-b18f-5c0faec84026",
+            "bbox": {
+                "x1": 1848.5,
+                "y1": 3164.5,
+                "x2": 2335.5,
+                "y2": 3343.5
+            },
+            "name": ""
+        },
+        {
+            "class": "control flow",
+            "confidence": 0.8044031262397766,
+            "detection_id": "95d30f9d-7938-4c0b-a407-cbc730de09f2",
+            "bbox": {
+                "x1": 1561.5,
+                "y1": 1946.0,
+                "x2": 1670.5,
+                "y2": 2384.0
+            },
+            "name": ""
+        },
+        {
+            "class": "control flow",
+            "confidence": 0.8019307255744934,
+            "detection_id": "cf52a95c-3aae-428f-a1fc-aa3ea5aa2b6c",
+            "bbox": {
+                "x1": 1712.5,
+                "y1": 1703.5,
+                "x2": 2381.5,
+                "y2": 1824.5
+            },
+            "name": ""
+        },
+        {
+            "class": "inward",
+            "confidence": 0.7990614175796509,
+            "detection_id": "1ae576a9-9a56-4955-85f9-3e235e9707f4",
+            "bbox": {
+                "x1": 2272.0,
+                "y1": 1680.0,
+                "x2": 2372.0,
+                "y2": 1812.0
+            },
+            "name": ""
+        },
+        {
+            "class": "outward",
+            "confidence": 0.7525454759597778,
+            "detection_id": "63f0aa68-88ae-4d17-9505-d77d6355c5a2",
+            "bbox": {
+                "x1": 1548.5,
+                "y1": 1934.0,
+                "x2": 1675.5,
+                "y2": 2026.0
+            },
+            "name": ""
+        },
+        {
+            "class": "inward",
+            "confidence": 0.751497745513916,
+            "detection_id": "d68b25bf-144e-4d50-bc08-35b7acc40c71",
+            "bbox": {
+                "x1": 2409.5,
+                "y1": 2893.0,
+                "x2": 2536.5,
+                "y2": 3043.0
+            },
+            "name": ""
+        },
+        {
+            "class": "inward",
+            "confidence": 0.7304969429969788,
+            "detection_id": "08af0feb-dbdf-4be1-90a9-d0005710ba8f",
+            "bbox": {
+                "x1": 705.5,
+                "y1": 1374.0,
+                "x2": 832.5,
+                "y2": 1512.0
+            },
+            "name": ""
+        },
+        {
+            "class": "outward",
+            "confidence": 0.7268706560134888,
+            "detection_id": "f770261e-8ab6-4317-99cd-ed34b9cf55e7",
+            "bbox": {
+                "x1": 623.5,
+                "y1": 1871.5,
+                "x2": 750.5,
+                "y2": 1974.5
+            },
+            "name": ""
+        },
+        {
+            "class": "outward",
+            "confidence": 0.7061879634857178,
+            "detection_id": "bfe8767f-fbd2-433c-b847-575ae6797642",
+            "bbox": {
+                "x1": 1717.0,
+                "y1": 1704.0,
+                "x2": 1785.0,
+                "y2": 1836.0
+            },
+            "name": ""
+        },
+        {
+            "class": "inward",
+            "confidence": 0.7039417028427124,
+            "detection_id": "726a9373-f227-4b6e-bf07-a4e788274095",
+            "bbox": {
+                "x1": 1343.0,
+                "y1": 3170.0,
+                "x2": 1461.0,
+                "y2": 3314.0
+            },
+            "name": ""
+        },
+        {
+            "class": "inward",
+            "confidence": 0.6702572107315063,
+            "detection_id": "85a3aa36-26de-4470-afc6-fbb177b5a5ae",
+            "bbox": {
+                "x1": 728.5,
+                "y1": 583.0,
+                "x2": 873.5,
+                "y2": 733.0
+            },
+            "name": ""
+        },
+        {
+            "class": "inward",
+            "confidence": 0.6696124076843262,
+            "detection_id": "28924fe5-3f56-4845-a340-f16fca72b9b5",
+            "bbox": {
+                "x1": 1707.5,
+                "y1": 2887.5,
+                "x2": 1820.5,
+                "y2": 2996.5
+            },
+            "name": ""
+        },
+        {
+            "class": "control flow",
+            "confidence": 0.6673481464385986,
+            "detection_id": "bb501324-eb09-43bc-9ba2-189677da0a27",
+            "bbox": {
+                "x1": 647.0,
+                "y1": 3112.5,
+                "x2": 1489.0,
+                "y2": 3319.5
+            },
+            "name": ""
+        },
+        {
+            "class": "inward",
+            "confidence": 0.6449874639511108,
+            "detection_id": "417d482a-af6f-44fd-a433-ad9c43776661",
+            "bbox": {
+                "x1": 537.5,
+                "y1": 2367.5,
+                "x2": 700.5,
+                "y2": 2534.5
+            },
+            "name": ""
+        },
+        {
+            "class": "inward",
+            "confidence": 0.6307529807090759,
+            "detection_id": "07470ab4-aaf6-4a0f-853c-f1435a0d5290",
+            "bbox": {
+                "x1": 1562.5,
+                "y1": 2251.5,
+                "x2": 1689.5,
+                "y2": 2372.5
+            },
+            "name": ""
+        },
+        {
+            "class": "outward",
+            "confidence": 0.6197487115859985,
+            "detection_id": "db76b528-cd6a-41ae-b120-2a6ef68b91b8",
+            "bbox": {
+                "x1": 737.5,
+                "y1": 1166.0,
+                "x2": 828.5,
+                "y2": 1258.0
+            },
+            "name": ""
+        },
+        {
+            "class": "outward",
+            "confidence": 0.6194062232971191,
+            "detection_id": "e8aece68-e281-47ee-93af-3ab603f3d347",
+            "bbox": {
+                "x1": 2491.5,
+                "y1": 1940.0,
+                "x2": 2600.5,
+                "y2": 2020.0
+            },
+            "name": ""
+        },
+        {
+            "class": "outward",
+            "confidence": 0.6018241047859192,
+            "detection_id": "0d5a42c8-90d9-4beb-9706-1f522cbfb60d",
+            "bbox": {
+                "x1": 1543.5,
+                "y1": 3198.5,
+                "x2": 1606.5,
+                "y2": 3325.5
+            },
+            "name": ""
+        },
+        {
+            "class": "outward",
+            "confidence": 0.5820939540863037,
+            "detection_id": "4f5c7cf0-98f5-4cf3-b40e-3262e74b2688",
+            "bbox": {
+                "x1": 610.0,
+                "y1": 3095.0,
+                "x2": 714.0,
+                "y2": 3175.0
+            },
+            "name": ""
+        },
+        {
+            "class": "control flow",
+            "confidence": 0.5680649280548096,
+            "detection_id": "072297cb-0cca-472d-ad90-0313991b43c0",
+            "bbox": {
+                "x1": 2131.5,
+                "y1": 1940.0,
+                "x2": 2568.5,
+                "y2": 3066.0
+            },
+            "name": ""
+        },
+        {
+            "class": "outward",
+            "confidence": 0.5493306517601013,
+            "detection_id": "7ee1e88d-b762-4c34-9ba7-ace83b104043",
+            "bbox": {
+                "x1": 1712.5,
+                "y1": 2760.5,
+                "x2": 1803.5,
+                "y2": 2829.5
+            },
+            "name": ""
+        },
+        {
+            "class": "outward",
+            "confidence": 0.49550971388816833,
+            "detection_id": "bcce5117-6a2f-4494-b980-c6fee85e03fa",
+            "bbox": {
+                "x1": 838.0,
+                "y1": 1651.5,
+                "x2": 924.0,
+                "y2": 1772.5
+            },
+            "name": ""
+        },
+        {
+            "class": "outward",
+            "confidence": 0.4693741798400879,
+            "detection_id": "c3f62f84-33cf-4f93-bb0f-def00fbf130f",
+            "bbox": {
+                "x1": 742.5,
+                "y1": 386.5,
+                "x2": 887.5,
+                "y2": 461.5
+            },
+            "name": ""
+        },
+        {
+            "class": "inward",
+            "confidence": 0.40718910098075867,
+            "detection_id": "f72e86b7-a9c7-4be5-baba-2813d19ac826",
+            "bbox": {
+                "x1": 1253.0,
+                "y1": 1651.5,
+                "x2": 1375.0,
+                "y2": 1772.5
+            },
+            "name": ""
+        }
+    ],
+    "connections": [
+        {
+            "type": "control flow",
+            "from": "6b99a8f4-5136-47ca-ae80-d4d871bbf282",
+            "to": "3d2514ab-c915-43bf-8bfa-bc7493aa066e"
+        },
+        {
+            "type": "control flow",
+            "from": "3d2514ab-c915-43bf-8bfa-bc7493aa066e",
+            "to": "6a5940d6-4cde-4fd0-af3e-e270f717de65"
+        },
+        {
+            "type": "control flow",
+            "from": "9a8d9940-a977-4728-94d7-2a30fb8f5208",
+            "to": "71dbad97-e143-4917-ab26-a5b82607ca3a"
+        },
+        {
+            "type": "control flow",
+            "from": "42628172-cf9b-4eec-949d-1e771b892f8b",
+            "to": "9a8d9940-a977-4728-94d7-2a30fb8f5208"
+        },
+        {
+            "type": "control flow",
+            "from": "6a5940d6-4cde-4fd0-af3e-e270f717de65",
+            "to": "2f79e113-d712-4aff-8e71-94dae222ca5f"
+        },
+        {
+            "type": "control flow",
+            "from": "7afd2908-21fd-4836-a273-04f1961ce5ab",
+            "to": "6a5940d6-4cde-4fd0-af3e-e270f717de65"
+        },
+        {
+            "type": "control flow",
+            "from": "3d2514ab-c915-43bf-8bfa-bc7493aa066e",
+            "to": "7afd2908-21fd-4836-a273-04f1961ce5ab"
+        },
+        {
+            "type": "control flow",
+            "from": "71dbad97-e143-4917-ab26-a5b82607ca3a",
+            "to": "2f79e113-d712-4aff-8e71-94dae222ca5f"
+        },
+        {
+            "type": "control flow",
+            "from": "bc51dfc9-20fe-47ae-838e-31b4dba8530f",
+            "to": "6b99a8f4-5136-47ca-ae80-d4d871bbf282"
+        },
+        {
+            "type": "control flow",
+            "from": "bc51dfc9-20fe-47ae-838e-31b4dba8530f",
+            "to": "3d2514ab-c915-43bf-8bfa-bc7493aa066e"
+        },
+        {
+            "type": "control flow",
+            "from": "3d2514ab-c915-43bf-8bfa-bc7493aa066e",
+            "to": "2f79e113-d712-4aff-8e71-94dae222ca5f"
+        },
+        {
+            "type": "control flow",
+            "from": "71dbad97-e143-4917-ab26-a5b82607ca3a",
+            "to": "bc51dfc9-20fe-47ae-838e-31b4dba8530f"
+        },
+        {
+            "type": "control flow",
+            "from": "2f79e113-d712-4aff-8e71-94dae222ca5f",
+            "to": "7afd2908-21fd-4836-a273-04f1961ce5ab"
+        }
+    ]
+}

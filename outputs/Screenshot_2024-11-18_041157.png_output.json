@@ -1,0 +1,76 @@
+{
+    "classes": {
+        "dc2ea23e-3d90-4902-b697-04fb5697ce55": {
+            "bbox": {
+                "x1": 30,
+                "y1": 56,
+                "x2": 140,
+                "y2": 204,
+                "confidence": 0.9274129867553711,
+                "detection_id": "dc2ea23e-3d90-4902-b697-04fb5697ce55"
+            },
+            "name": "uStarnef",
+            "attributes": "Name string latahia 3h44]",
+            "operations": "Send Gyd ( ) Tanan gemerali"
+        },
+        "18b68690-46ff-45f5-9a20-10046b97c655": {
+            "bbox": {
+                "x1": 51,
+                "y1": 254,
+                "x2": 154,
+                "y2": 393,
+                "confidence": 0.9233442544937134,
+                "detection_id": "18b68690-46ff-45f5-9a20-10046b97c655"
+            },
+            "name": "Spua orlet",
+            "attributes": "0@ Da Tt Strt numeit:",
+            "operations": "Cannim Clae"
+        },
+        "96dc43ba-cadb-4657-b43e-6aca48d57556": {
+            "bbox": {
+                "x1": 224,
+                "y1": 98,
+                "x2": 341,
+                "y2": 221,
+                "confidence": 0.921332061290741,
+                "detection_id": "96dc43ba-cadb-4657-b43e-6aca48d57556"
+            },
+            "name": "Class %5x",
+            "attributes": "bal Da le stdd numtat",
+            "operations": "Contnltm 737"
+        },
+        "801135a8-4b7d-4928-8c72-e96616bc3f94": {
+            "bbox": {
+                "x1": 237,
+                "y1": 290,
+                "x2": 348,
+                "y2": 400,
+                "confidence": 0.913807213306427,
+                "detection_id": "801135a8-4b7d-4928-8c72-e96616bc3f94"
+            },
+            "name": "Name",
+            "attributes": "do l : DaTe Mumber srl",
+            "operations": "Clole L )"
+        }
+    },
+    "relationships": [
+        {
+            "type": "association",
+            "bbox": {
+                "x1": 139,
+                "y1": 128,
+                "x2": 227,
+                "y2": 170,
+                "confidence": 0.6437222957611084,
+                "detection_id": "07470d09-d2b3-49e6-b01a-073ba6bd20cb"
+            }
+        }
+    ],
+    "connections": [
+        {
+            "type": "association",
+            "from": "dc2ea23e-3d90-4902-b697-04fb5697ce55",
+            "to": "96dc43ba-cadb-4657-b43e-6aca48d57556"
+        }
+    ]
+}

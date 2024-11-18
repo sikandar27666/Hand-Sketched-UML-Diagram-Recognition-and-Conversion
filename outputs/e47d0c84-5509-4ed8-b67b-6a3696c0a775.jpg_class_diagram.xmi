@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.1" xmlns:uml="http://schema.omg.org/spec/UML/2.0" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1">
+	<packagedElement xmi:id="865149a8e88f4b9d97ab48945cf361c4" xmi:type="uml:Model">
+		<name>ClassDiagram1</name>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="437494ce12664e09a9e501b7563567d0" xmi:type="uml:Class">
+			<name>Custorer</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="1a8e3bff64c942a8a1e899bc9a1684eb" name="Name Strind locahm : shn]" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="2c8e93a303ff407cbe4385dccb004095" name="Send 6v &amp;or L) Yece ive Orde/ ( )" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="f65bbb241aeb4a4883db2e60a366b590" xmi:type="uml:Class">
+			<name>Specia / Ovlet</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="d8cef28d381d435c90178ede25406db0" name="dal : Da Te nue stvin mbe ( ;" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="7cb746ceb783472da7a4f3292ae8910d" name="Canfim l) Clese ()" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="084bb06e24cd4b7c95d81542c5fc1a7a" xmi:type="uml:Class">
+			<name>Noym~ Ovdey</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="70f7cd2d98cd4af6bc25b9f4e3a18f05" name="da le Date Numbei : stn}" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="e7e34ad0fa8c4106a270ca7227366af9" name="Lahim C) Close L)" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="763914e193c0491ba28ea8c4e1dd2d83" xmi:type="uml:Class">
+			<name>Order</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="28a644ce781143febe61477bcfb24a53" name="Da (e numbev : stnin] bl" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="0d137d223f82402e946162e8a036b469" name="Coc6tmo ( | Close ()" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement xmi:id="352578ebbc6f4d7bb980349b34199430" visibility="public" xmi:type="uml:Association">
+			<memberEnd xmi:idref="437494ce12664e09a9e501b7563567d0" xmi:type="uml:Property"/>
+			<memberEnd xmi:idref="763914e193c0491ba28ea8c4e1dd2d83" xmi:type="uml:Property"/>
+		</packagedElement>
+		<packagedElement xmi:id="084bb06e24cd4b7c95d81542c5fc1a7a" xmi:type="uml:Class">
+			<generalization isSubstitutable="true" xmi:id="3ef5c590ef68475a9a24bf94a6f91d96" xmi:type="uml:Generalization">
+				<general xmi:idref="763914e193c0491ba28ea8c4e1dd2d83"/>
+			</generalization>
+		</packagedElement>
+		<packagedElement xmi:id="f65bbb241aeb4a4883db2e60a366b590" xmi:type="uml:Class">
+			<generalization isSubstitutable="true" xmi:id="645d1271b06345d0ae8a72253bc88cbb" xmi:type="uml:Generalization">
+				<general xmi:idref="437494ce12664e09a9e501b7563567d0"/>
+			</generalization>
+		</packagedElement>
+	</packagedElement>
+</xmi:XMI>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.1" xmlns:uml="http://schema.omg.org/spec/UML/2.0" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1">
+	<packagedElement xmi:id="3bd48dbe9dd24a00ae2ff1d9e5f6cb7d" xmi:type="uml:Model">
+		<name>ClassDiagram1</name>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="9d6fa460f6b847199b25603f156d154f" xmi:type="uml:Class">
+			<name>uStarnef</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="de3dcff422724eb2b12980ea503f1200" name="Name string latahia 3h44]" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="e2505fcf5fbd45e49ac253f6d5fb8918" name="Send Gyd ( ) Tanan gemerali" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="741baacf471244bebc5f88c0605bfb6b" xmi:type="uml:Class">
+			<name>Spua orlet</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="a30828fd423148cbad6414b3c08e7bee" name="0@ Da Tt Strt numeit:" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="bc8e070ab0cb40168f6d7f974c9afc8d" name="Cannim Clae" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="c52e75b508404c3b8f5cb3b91ba7947c" xmi:type="uml:Class">
+			<name>Class %5x</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="12c55c0026cc45db9ee3946f55b073cd" name="bal Da le stdd numtat" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="6980996919e444fa86dfda8c235925e5" name="Contnltm 737" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="a1478d7046dc425a8ec30ef4cf42c167" xmi:type="uml:Class">
+			<name>Name</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="ed208edd2a7d4583aa2318a73087abbb" name="do l : DaTe Mumber srl" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="127d906c62b54b1b8fa729abd9610ae5" name="Clole L )" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement xmi:id="208ef7eddbe54aed95d4a4e31da0e806" visibility="public" xmi:type="uml:Association">
+			<memberEnd xmi:idref="9d6fa460f6b847199b25603f156d154f" xmi:type="uml:Property"/>
+			<memberEnd xmi:idref="c52e75b508404c3b8f5cb3b91ba7947c" xmi:type="uml:Property"/>
+		</packagedElement>
+	</packagedElement>
+</xmi:XMI>

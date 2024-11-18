@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.1" xmlns:uml="http://schema.omg.org/spec/UML/2.0" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1">
+	<packagedElement xmi:id="7c68499b009d431d862308222eeb41a3" xmi:type="uml:Model">
+		<name>ClassDiagram1</name>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="c16ccff0eb804531bfbe76bb4974e13f" xmi:type="uml:Class">
+			<name>Derson Der</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="75a63699f8df41819e0c19ef09133036" name="Name Sxy Name St Phone numbel Sty Phone number : Stv" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="fbb00c143bdf4553b336410d7c26a549" name="Deelay UrVe PuvcharPaakiraL)" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="13b8efbd38da440e91b9d0efe0bbff40" xmi:type="uml:Class">
+			<name>Stuantt Student</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="d7d4290dfe694c58857404d3405e414d" name="Shuden Num: int 4shulen+ Num: int" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="fbde687a2a1d4f9281fa6f31ac64c9aa" name="8 4jet _ Seminav fget Leminay" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="e7fb467aacd64584815c63e438fb41c1" xmi:type="uml:Class">
+			<name>Addve ss Addye&lt;s</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="ceb3be4db7da4517a02c3363bbad2b1a" name="Stvet Stv Stvt Stv Stv Skv +cib]" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="2456e3e1663047149b82b12829312dff" name="Vullll ()" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="4a61f38cb36b49e8836531e128cb0a0d" xmi:type="uml:Class">
+			<name>Prtfess_ Dolc</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="6245c5ba579d4fef93c0999a12b6ab93" name="Saln  ) | C&gt;s nt Salar1 int" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="5a26e23a35f645c6873e4adf44263fac" name="Operations" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement xmi:id="d6ee59fd254f4037a4fdff2a81229b56" visibility="public" xmi:type="uml:Association">
+			<memberEnd xmi:idref="4a61f38cb36b49e8836531e128cb0a0d" xmi:type="uml:Property"/>
+			<memberEnd xmi:idref="13b8efbd38da440e91b9d0efe0bbff40" xmi:type="uml:Property"/>
+		</packagedElement>
+		<packagedElement xmi:id="26cec582a4de41279d761c7bf2536761" visibility="public" xmi:type="uml:Association">
+			<memberEnd xmi:idref="c16ccff0eb804531bfbe76bb4974e13f" xmi:type="uml:Property"/>
+			<memberEnd xmi:idref="13b8efbd38da440e91b9d0efe0bbff40" xmi:type="uml:Property"/>
+		</packagedElement>
+	</packagedElement>
+</xmi:XMI>

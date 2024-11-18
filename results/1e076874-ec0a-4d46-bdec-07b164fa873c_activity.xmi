@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.1" xmlns:uml="http://schema.omg.org/spec/UML/2.0" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1">
+	<xmi:Documentation exporter="StarUML" exporterVersion="2.0"/>
+	<uml:Model xmi:id="AAAAAAGSzpfoUdWBzfE=" xmi:type="uml:Model" name="RootModel">
+		<packagedElement xmi:id="AAAAAAGSzpWYqNQV9lI=" name="Activity1" visibility="public" isReentrant="true" xmi:type="uml:Activity" isReadOnly="false" isSingleExecution="false">
+			<node xmi:id="992fc81f31ad4da3a24f3374aae37146" name="o" visibility="public" xmi:type="uml:OpaqueAction">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="b055bb71f4d04b92ab2529dd59a86974" name="" visibility="public" xmi:type="uml:DecisionNode">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="3a847262dc8043c1b62a44d42a1672de" name="Slow DowN" visibility="public" xmi:type="uml:OpaqueAction">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="41435235f4df4f648800ddefcab34b1d" name="" visibility="public" xmi:type="uml:DecisionNode">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="a039151f195043cda46fbe699ee9e01c" name="" visibility="public" xmi:type="uml:ActivityFinalNode">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="0f27eb33c60c40ac9bba0bac58542b5a" name="" visibility="public" xmi:type="uml:DecisionNode">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="ba3bc7ba6a4f4cbea798acf2e94e07c2" name="it" visibility="public" xmi:type="uml:OpaqueAction">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="6508202d69134b67add82490d5451491" name="" visibility="public" xmi:type="uml:InitialNode">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="e3553ad16fb94ba986a3684371fd522c" name="stop" visibility="public" xmi:type="uml:OpaqueAction">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="27f56f1e40cd41eba5427873e7d79642" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="746690de3b3a4529a16c5a0b2c14269d" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="dfde0a83e400407586bd6035a9f86b35" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="38142df7705c417383f66b7018c1d37d" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="f20a18bc38d54b07827c119dc68b5cf5" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="4e4afbade43e4635b1ac7cc448552064" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="2257b34b253845829b5a1289e6df2ae9" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="adb6acf894354f55b659d87eb63fcee0" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="a0c9a0b3dec54ab5a92df46983552e30" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="2dd8fc1ab15247f5a3359e3cbd9a5065" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="1aa3148a9ed043a79538c51eba4d6d97" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="f3eb1bb9e83045cc9c118835545e1bdf" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="9ff7893f2b4740a0afda8f368429e3eb" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="6678d7c94254445f824dc07ac23d68de" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="42c399d7c8bb4648ba057fb63e183500" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="01846a1960f146f5aed2693b22f964b3" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="f1a1502428cf4a5fb924f22fd0080494" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="a34e9a6a27e14d9e80e1a2285a8c97c1" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="8890cbb08c804dcf8ef993d1a2573a4d" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="2c6e55466ec541ba9541842c0e85ea7b" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="25ec98fec18f4058ad3ba15c65af89bc" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="e50d97e52e88432db319acfab37e17b0" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="ba9cbab0d0384883ba8e478caaeea813" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="ff3c98884f02487aaab0bd84f1c2461a" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="91dc9703290e4f3f9db33dc9d4c0cf2e" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="5065183c95ac4ce3af37b1547a5c8d32" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="7571238c47f14ced955e3a7bd60ba949" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="e838b3f93db74e5d9fb1bd2ae5e44363" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="e952d7ba18a24596ae00a60ca1677784" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<node xmi:id="bb9fbe56ff354cd99a770ad0df261a00" name="" visibility="public" xmi:type="">
+				<shape x="0" y="0" width="0" height="0" />
+			</node>
+			<edge xmi:id="2bb8c6153dbf445b8ce48c75bd6a59a2" visibility="public" source="3a847262dc8043c1b62a44d42a1672de" target="a039151f195043cda46fbe699ee9e01c" xmi:type="uml:ControlFlow"/>
+			<edge xmi:id="ec3f2d59d1b74d209ab1cddd06450c0e" visibility="public" source="3a847262dc8043c1b62a44d42a1672de" target="41435235f4df4f648800ddefcab34b1d" xmi:type="uml:ControlFlow"/>
+			<edge xmi:id="3512fa45d8ca4a91a5775edefe3af6a5" visibility="public" source="b055bb71f4d04b92ab2529dd59a86974" target="3a847262dc8043c1b62a44d42a1672de" xmi:type="uml:ControlFlow"/>
+			<edge xmi:id="cac524d8e2da41cf8f8dcaa7cf026612" visibility="public" source="a039151f195043cda46fbe699ee9e01c" target="e3553ad16fb94ba986a3684371fd522c" xmi:type="uml:ControlFlow"/>
+			<edge xmi:id="590952ff5a3244328b91b870306c1270" visibility="public" source="3a847262dc8043c1b62a44d42a1672de" target="e3553ad16fb94ba986a3684371fd522c" xmi:type="uml:ControlFlow"/>
+			<edge xmi:id="f5c8d04b5c2646daa7964f5ebf84ba22" visibility="public" source="0f27eb33c60c40ac9bba0bac58542b5a" target="e3553ad16fb94ba986a3684371fd522c" xmi:type="uml:ControlFlow"/>
+			<edge xmi:id="03197b8e1032463ea90679248d4a0db2" visibility="public" source="41435235f4df4f648800ddefcab34b1d" target="a039151f195043cda46fbe699ee9e01c" xmi:type="uml:ControlFlow"/>
+			<edge xmi:id="f030af94c60b45b79d1e4c98564deb69" visibility="public" source="b055bb71f4d04b92ab2529dd59a86974" target="992fc81f31ad4da3a24f3374aae37146" xmi:type="uml:ControlFlow"/>
+			<edge xmi:id="6ae2e905825d4885b0f6df6a891709e7" visibility="public" source="ba3bc7ba6a4f4cbea798acf2e94e07c2" target="0f27eb33c60c40ac9bba0bac58542b5a" xmi:type="uml:ControlFlow"/>
+			<edge xmi:id="2bad8a05d9f443b8b62e239e6644530b" visibility="public" source="e3553ad16fb94ba986a3684371fd522c" target="41435235f4df4f648800ddefcab34b1d" xmi:type="uml:ControlFlow"/>
+			<edge xmi:id="311837e31bfd4da28e4776ba8eeb7b25" visibility="public" source="6508202d69134b67add82490d5451491" target="ba3bc7ba6a4f4cbea798acf2e94e07c2" xmi:type="uml:ControlFlow"/>
+			<edge xmi:id="dd74671b2ed9450cb6374e26f9a8efc2" visibility="public" source="0f27eb33c60c40ac9bba0bac58542b5a" target="b055bb71f4d04b92ab2529dd59a86974" xmi:type="uml:ControlFlow"/>
+			<edge xmi:id="87300c172758485da1b9bb523a8f2266" visibility="public" source="992fc81f31ad4da3a24f3374aae37146" target="3a847262dc8043c1b62a44d42a1672de" xmi:type="uml:ControlFlow"/>
+		</packagedElement>
+	</uml:Model>
+</xmi:XMI>

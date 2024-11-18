@@ -1,0 +1,92 @@
+{
+    "classes": {
+        "8dd7433c-d43c-408c-9946-d882a784fea8": {
+            "bbox": {
+                "x1": 318,
+                "y1": 246,
+                "x2": 1351,
+                "y2": 1351,
+                "confidence": 0.9415740966796875,
+                "detection_id": "8dd7433c-d43c-408c-9946-d882a784fea8"
+            },
+            "name": "Derem",
+            "attributes": "Name : Sty Phone number : Stv",
+            "operations": "1 PuvchagPaakir; Y)"
+        },
+        "20b7d4cd-bf26-4e6d-a8da-45d649d5aac7": {
+            "bbox": {
+                "x1": 1941,
+                "y1": 2196,
+                "x2": 3008,
+                "y2": 3301,
+                "confidence": 0.9398937821388245,
+                "detection_id": "20b7d4cd-bf26-4e6d-a8da-45d649d5aac7"
+            },
+            "name": "D",
+            "attributes": "1etresssy :int sala]",
+            "operations": "Operations"
+        },
+        "b4d39460-a610-44e2-a624-7c1fdba6bd84": {
+            "bbox": {
+                "x1": 299,
+                "y1": 2099,
+                "x2": 1491,
+                "y2": 3191,
+                "confidence": 0.9372608661651611,
+                "detection_id": "b4d39460-a610-44e2-a624-7c1fdba6bd84"
+            },
+            "name": "Student",
+            "attributes": "+Shuden+ Num: int",
+            "operations": "4get Leminar ( )"
+        },
+        "4d6502c7-68a2-4d2c-b9fa-69f88fca7cfc": {
+            "bbox": {
+                "x1": 1990,
+                "y1": 721,
+                "x2": 2913,
+                "y2": 1780,
+                "confidence": 0.9370368719100952,
+                "detection_id": "4d6502c7-68a2-4d2c-b9fa-69f88fca7cfc"
+            },
+            "name": "Addye< <",
+            "attributes": "+Stvt ; Stv Skv ~cil",
+            "operations": "vullll ()"
+        }
+    },
+    "relationships": [
+        {
+            "type": "one-way-association",
+            "bbox": {
+                "x1": 1412,
+                "y1": 2827,
+                "x2": 1970,
+                "y2": 3074,
+                "confidence": 0.7581989765167236,
+                "detection_id": "9cfe0275-e3be-4794-9961-9f828ec0460b"
+            }
+        },
+        {
+            "type": "one-way-association",
+            "bbox": {
+                "x1": 943,
+                "y1": 1319,
+                "x2": 1122,
+                "y2": 1949,
+                "confidence": 0.754962682723999,
+                "detection_id": "92a676ec-2562-416d-b582-abeb88714db7"
+            }
+        }
+    ],
+    "connections": [
+        {
+            "type": "one-way-association",
+            "from": "20b7d4cd-bf26-4e6d-a8da-45d649d5aac7",
+            "to": "b4d39460-a610-44e2-a624-7c1fdba6bd84"
+        },
+        {
+            "type": "one-way-association",
+            "from": "8dd7433c-d43c-408c-9946-d882a784fea8",
+            "to": "b4d39460-a610-44e2-a624-7c1fdba6bd84"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.1" xmlns:uml="http://schema.omg.org/spec/UML/2.0" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1">
+	<packagedElement xmi:id="e5b1d028430642dfb1afcd4a1a8f4f9d" xmi:type="uml:Model">
+		<name>ClassDiagram1</name>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="d4ee64def589405da20eceaef5633a16" xmi:type="uml:Class">
+			<name>Derem</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="2f40e09dcd2242428365284dce78e79d" name="Name : Sty Phone number : Stv" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="f7b8b66bf7bd405a8ab00b29b46d9e05" name="1 PuvchagPaakir; Y)" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="1d649888fd994fed91cc024eb010fa5d" xmi:type="uml:Class">
+			<name>D</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="b45acc84fa354f568000545a858d7501" name="1etresssy :int sala]" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="5e98003cf7814f62ba74b534db86767a" name="Operations" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="3ae49e296bd64c179b1a1aae037ee41e" xmi:type="uml:Class">
+			<name>Student</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="7e70872eb895458694bc5548ba12b690" name="+Shuden+ Num: int" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="b4c74e1c60ef419c8e5e5384faf83037" name="4get Leminar ( )" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement isAbstract="false" isActive="false" isFinalSpecialization="false" isLeaf="false" xmi:id="41d8f9a9b3ad4099abf5d8cb9867ee1e" xmi:type="uml:Class">
+			<name>Addye&lt; &lt;</name>
+			<visibility>public</visibility>
+			<ownedAttribute xmi:id="fed29140505a4f339d479850efc0fcfc" name="+Stvt ; Stv Skv ~cil" visibility="public" xmi:type="uml:Property"/>
+			<ownedOperation xmi:id="f1a7b051ca7a4ba6aeb3c9f4b4c187c8" name="vullll ()" visibility="public" xmi:type="uml:Operation"/>
+		</packagedElement>
+		<packagedElement xmi:id="94daebf1c234456393696dc5ae0dbe75" visibility="public" xmi:type="uml:Association">
+			<memberEnd xmi:idref="1d649888fd994fed91cc024eb010fa5d" xmi:type="uml:Property"/>
+			<memberEnd xmi:idref="3ae49e296bd64c179b1a1aae037ee41e" xmi:type="uml:Property"/>
+		</packagedElement>
+		<packagedElement xmi:id="fb3d0d5dcc8e4d289e4f5921d5ed1668" visibility="public" xmi:type="uml:Association">
+			<memberEnd xmi:idref="d4ee64def589405da20eceaef5633a16" xmi:type="uml:Property"/>
+			<memberEnd xmi:idref="3ae49e296bd64c179b1a1aae037ee41e" xmi:type="uml:Property"/>
+		</packagedElement>
+	</packagedElement>
+</xmi:XMI>

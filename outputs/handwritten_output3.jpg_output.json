@@ -1,0 +1,92 @@
+{
+    "classes": {
+        "f9484a0e-50f6-4b17-8595-db89a053d37b": {
+            "bbox": {
+                "x1": 329,
+                "y1": 247,
+                "x2": 1347,
+                "y2": 1345,
+                "confidence": 0.9439539909362793,
+                "detection_id": "f9484a0e-50f6-4b17-8595-db89a053d37b"
+            },
+            "name": "Derson Der",
+            "attributes": "Name Sxy Name St Phone numbel Sty Phone number : Stv",
+            "operations": "Deelay UrVe PuvcharPaakiraL)"
+        },
+        "5d393cdc-b575-4c56-9e32-853c87a78cc4": {
+            "bbox": {
+                "x1": 304,
+                "y1": 2099,
+                "x2": 1491,
+                "y2": 3178,
+                "confidence": 0.9413313269615173,
+                "detection_id": "5d393cdc-b575-4c56-9e32-853c87a78cc4"
+            },
+            "name": "Stuantt Student",
+            "attributes": "Shuden Num: int 4shulen+ Num: int",
+            "operations": "8 4jet _ Seminav fget Leminay"
+        },
+        "500f97e3-e6b1-4a33-8038-13462a84100d": {
+            "bbox": {
+                "x1": 1991,
+                "y1": 728,
+                "x2": 2909,
+                "y2": 1774,
+                "confidence": 0.9397168755531311,
+                "detection_id": "500f97e3-e6b1-4a33-8038-13462a84100d"
+            },
+            "name": "Addve ss Addye<s",
+            "attributes": "Stvet Stv Stvt Stv Stv Skv +cib]",
+            "operations": "Vullll ()"
+        },
+        "9f059d9c-6aeb-459f-a488-bcbb5d087f64": {
+            "bbox": {
+                "x1": 1941,
+                "y1": 2223,
+                "x2": 2999,
+                "y2": 3289,
+                "confidence": 0.928863525390625,
+                "detection_id": "9f059d9c-6aeb-459f-a488-bcbb5d087f64"
+            },
+            "name": "Prtfess_ Dolc",
+            "attributes": "Saln  ) | C>s nt Salar1 int",
+            "operations": "Operations"
+        }
+    },
+    "relationships": [
+        {
+            "type": "one-way-association",
+            "bbox": {
+                "x1": 1412,
+                "y1": 2834,
+                "x2": 1970,
+                "y2": 3068,
+                "confidence": 0.7522828578948975,
+                "detection_id": "6ea233f2-6cd2-40b4-bcba-ca615753b381"
+            }
+        },
+        {
+            "type": "one-way-association",
+            "bbox": {
+                "x1": 943,
+                "y1": 1312,
+                "x2": 1122,
+                "y2": 1955,
+                "confidence": 0.7407679557800293,
+                "detection_id": "ca312839-64b8-42ac-b717-166096c4df0f"
+            }
+        }
+    ],
+    "connections": [
+        {
+            "type": "one-way-association",
+            "from": "9f059d9c-6aeb-459f-a488-bcbb5d087f64",
+            "to": "5d393cdc-b575-4c56-9e32-853c87a78cc4"
+        },
+        {
+            "type": "one-way-association",
+            "from": "f9484a0e-50f6-4b17-8595-db89a053d37b",
+            "to": "5d393cdc-b575-4c56-9e32-853c87a78cc4"
+        }
+    ]
+}

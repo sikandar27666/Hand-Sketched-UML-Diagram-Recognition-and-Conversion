@@ -1,0 +1,108 @@
+{
+    "classes": {
+        "ca7533f4-1e07-43b4-b5df-4e535fd493eb": {
+            "bbox": {
+                "x1": 237,
+                "y1": 513,
+                "x2": 1102,
+                "y2": 1644,
+                "confidence": 0.9393569231033325,
+                "detection_id": "ca7533f4-1e07-43b4-b5df-4e535fd493eb"
+            },
+            "name": "Custorer",
+            "attributes": "Name Strind locahm : shn]",
+            "operations": "Send 6v &or L) Yece ive Orde/ ( )"
+        },
+        "647692a5-f044-4826-9028-77f8db2d2a9a": {
+            "bbox": {
+                "x1": 395,
+                "y1": 2073,
+                "x2": 1216,
+                "y2": 3145,
+                "confidence": 0.9376398324966431,
+                "detection_id": "647692a5-f044-4826-9028-77f8db2d2a9a"
+            },
+            "name": "Specia / Ovlet",
+            "attributes": "dal : Da Te nue stvin mbe ( ;",
+            "operations": "Canfim l) Clese ()"
+        },
+        "91bce00f-e2a2-4c7f-8037-b0992c73b1e4": {
+            "bbox": {
+                "x1": 1858,
+                "y1": 2340,
+                "x2": 2767,
+                "y2": 3198,
+                "confidence": 0.9363819360733032,
+                "detection_id": "91bce00f-e2a2-4c7f-8037-b0992c73b1e4"
+            },
+            "name": "Noym~ Ovdey",
+            "attributes": "da le Date Numbei : stn}",
+            "operations": "Lahim C) Close L)"
+        },
+        "f6777d56-efa5-4095-aae8-687193bf7a52": {
+            "bbox": {
+                "x1": 1753,
+                "y1": 877,
+                "x2": 2693,
+                "y2": 1787,
+                "confidence": 0.933605968952179,
+                "detection_id": "f6777d56-efa5-4095-aae8-687193bf7a52"
+            },
+            "name": "Order",
+            "attributes": "Da (e numbev : stnin] bl",
+            "operations": "Coc6tmo ( | Close ()"
+        }
+    },
+    "relationships": [
+        {
+            "type": "one-way-association",
+            "bbox": {
+                "x1": 1089,
+                "y1": 1065,
+                "x2": 1796,
+                "y2": 1364,
+                "confidence": 0.8490754961967468,
+                "detection_id": "ac87b1b7-e608-4a19-866d-6f559669d9d1"
+            }
+        },
+        {
+            "type": "generalization",
+            "bbox": {
+                "x1": 2042,
+                "y1": 1748,
+                "x2": 2239,
+                "y2": 2398,
+                "confidence": 0.8003443479537964,
+                "detection_id": "7f1aef09-1eb5-498f-bec7-3474164c5b4f"
+            }
+        },
+        {
+            "type": "generalization",
+            "bbox": {
+                "x1": 663,
+                "y1": 1631,
+                "x2": 1752,
+                "y2": 2086,
+                "confidence": 0.6981273889541626,
+                "detection_id": "5a725c44-532f-481a-9541-4e85f2d6cc91"
+            }
+        }
+    ],
+    "connections": [
+        {
+            "type": "one-way-association",
+            "from": "ca7533f4-1e07-43b4-b5df-4e535fd493eb",
+            "to": "f6777d56-efa5-4095-aae8-687193bf7a52"
+        },
+        {
+            "type": "generalization",
+            "from": "91bce00f-e2a2-4c7f-8037-b0992c73b1e4",
+            "to": "f6777d56-efa5-4095-aae8-687193bf7a52"
+        },
+        {
+            "type": "generalization",
+            "from": "647692a5-f044-4826-9028-77f8db2d2a9a",
+            "to": "ca7533f4-1e07-43b4-b5df-4e535fd493eb"
+        }
+    ]
+}
